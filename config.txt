@@ -1,0 +1,6 @@
+owner=510443176817852426
+prefix=/
+game=habda
+stayinchannel=true
+songinstatus=false
+token=NTk3MDQyMzcxMTgzNjQwNTc3.XSCigw._peE64hzj6qSTGvHVqdn3TGM6j0
